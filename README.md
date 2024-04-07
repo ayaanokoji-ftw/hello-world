@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practising github flow 
+def main()
+print('HELLO WORLD THIS IS AYAANOKOJI')
+##This repository is for practising github flow 
